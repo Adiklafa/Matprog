@@ -1,4 +1,4 @@
-# Matprog
+# Covid-19
 Matematikai programcsomagok beadandó
 
 Téma: Covid-19
