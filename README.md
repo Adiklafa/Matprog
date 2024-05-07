@@ -2,7 +2,7 @@
 
 ## Téma: Covid-19 adatelemzés
 
-Tartalom: 
+### Tartalom: 
 - R_0 becslése és plotolása,
 - Transmission tree bemutatása, interaktív ábrázolása,
 - SIR modellek elemzése minta országokra,
@@ -16,9 +16,9 @@ Tartalom:
 - Oltások száma
   
 
-Csapat tagjai: 
-* Frits Anita @anitafrits
-* Sebestyén Roxána @SebestyenRoxana
-* Temesvári Ádám @Adiklafa
+#### Csapat tagjai: 
+* Frits Anita [@anitafrits](https://github.com/anitafrits)
+* Sebestyén Roxána [@SebestyenRoxana](https://github.com/SebestyenRoxana)
+* Temesvári Ádám [@Adiklafa](https://github.com/Adiklafa)
 
 Külön köszönet Backhausz Ágnesnek, aki segített az ötleteivel elindítani a projektet, és amiért mindig elérhető volt újabb kérdések esetén
