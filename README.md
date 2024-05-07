@@ -3,7 +3,7 @@
 ## Téma: Covid-19 adatelemzés
 
 ### Tartalom: 
-- R_0 becslése és plotolása,
+-  **R<sub>0</sub>** becslése és plotolása,
 - Transmission tree bemutatása, interaktív ábrázolása,
 - SIR modellek elemzése minta országokra,
 - Halálozási adatok elemzése - átlagos halálozzással összevetés,
